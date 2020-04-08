@@ -1,5 +1,5 @@
 # random-insult
-Types out a random insult and send it every one second*.
+A script that sends out a random insult from an external list every one second*.
 
 *delay can be modified
 
