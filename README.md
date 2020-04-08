@@ -1,5 +1,7 @@
 # random-insult
-Types out a random insult every one second and sends it.
+Types out a random insult and send it every one second*.
+
+*delay can be modified
 
 ## Requirements
 Requires Python 3.x, Pip, and Pynput.
