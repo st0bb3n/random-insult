@@ -9,6 +9,7 @@ Pip: https://pypi.org/project/pip/
 Python: https://www.python.org/
 
 Install Pynput thru pip:
+Open cmd and then type
 ```bash
-Open cmd and then type pip install pynput
+pip install pynput
 ```
